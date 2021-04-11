@@ -27,3 +27,4 @@ console.log(var4);
 console.log(var5);
 
 //정리 var 키워드는 블럭스코프가 아니라 함수레벨 스코프 이다.
+
